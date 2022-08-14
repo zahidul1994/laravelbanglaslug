@@ -1,0 +1,13 @@
+{
+    "name": "sohibd/banglaslug",
+    "description": "make easy bangla and english sluge with utf-8 standard format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zahidul"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
