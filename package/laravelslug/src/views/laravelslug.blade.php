@@ -18,7 +18,7 @@
 <form method="post" action="{{ route('makesulg')}}">
 {{-- <form method="post" action="{{ route('makesulg')}}"> --}}
     @csrf
-    <input type="text" name="slug" value="{{@$value}}"> <button type="submit">Make Slug</button>
+    <input type="text" required name="slug" value="{{@$value}}"> <button type="submit">Make Slug</button>
 </form>
 
 
